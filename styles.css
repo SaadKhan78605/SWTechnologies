@@ -1,7 +1,7 @@
         /* ID's  */
 
         #abouts {
-            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('about.jpg');
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("about.jpg");
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
